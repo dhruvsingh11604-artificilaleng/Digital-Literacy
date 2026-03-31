@@ -1,0 +1,16 @@
+Case Study: UPI "Pending Utility Bill" Fraud
+                                              Cybercrime Type: UPI/Online Payment Fraud
+
+
+What the Crime is: UPI fraud is a deceptive practice where criminals exploit the real-time, instant nature of the Unified Payment Interface to steal money directly from a victim's bank account. In the "Pending Bill" scenario, scammers impersonate official utility providers—such as electricity or water boards—to create a sense of panic and urgency.
+
+How it Typically Happens (Step-by-Step):
+Initial Contact: The victim receives an SMS or WhatsApp message stating that their electricity connection will be disconnected within the hour due to an "unpaid bill" or "un-updated KYC".
+Social Engineering: The message includes a "helpline" number. When the victim calls, the scammer uses professional-sounding language to reinforce the threat of disconnection.
+
+The Trap: The scammer instructs the victim to download a remote-access app (like AnyDesk) to "verify the payment" or sends a "Collect Request" link via a messaging app.
+
+The Theft: When the victim enters their UPI PIN—thinking they are verifying their identity or paying a small "reconnection fee"—the scammer uses the remote access or the collect request to instantly debit a large sum from the account.
+Who is Typically Targeted: Scammers often target senior citizens, who may be less familiar with the nuances of UPI "Collect Requests," as well as busy working professionals who might act quickly without verification to avoid service interruptions.
+
+Consequences: The immediate consequence is significant financial loss; because UPI transactions are instant, the money is often withdrawn before the victim realizes the fraud. Beyond the money, victims often suffer from psychological stress and a long-term loss of trust in digital banking.

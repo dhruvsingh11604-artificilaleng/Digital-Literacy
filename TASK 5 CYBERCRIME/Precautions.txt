@@ -1,0 +1,19 @@
+                                                Stay Safe Online: A Guide for Students
+
+As your Student Digital Ambassador, I’ve compiled this checklist to help you navigate the digital space securely. Follow these 8 actionable tips:
+
+	Never Share Your UPI PIN for Receiving Money: Remember, a PIN is only required to send money or check your balance. If someone asks you to enter your PIN to "receive a prize" or "refund," it is a scam.
+
+	Verify UPI "Collect Requests": Before approving any payment request on apps like GPay or PhonePe, double-check the requester's name and the amount. Fraudsters often send these with names that look like official brands.
+
+	Enable Two-Factor Authentication (2FA): Activate 2FA on your college email, Instagram, and LinkedIn. This adds a second layer of security even if someone steals your password. 
+
+       Use a Password Manager: Avoid using the same password for VITyarthi and your personal accounts. Use a manager like Bitwarden to generate and store unique, complex passwords.
+
+	Audit App Permissions: Go to your phone settings and revoke "Camera," "Microphone," or "Contacts" permissions for apps that don't strictly need them (e.g., a simple calculator app).
+
+	Avoid Public Wi-Fi for Banking: Never log into your bank account or make a UPI payment while on a public or unsecured Wi-Fi network. Use your mobile data for all financial transactions.
+
+	Mask Your Aadhaar: When providing a copy of your Aadhaar for identity verification, use the "Masked Aadhaar" option from the UIDAI website to hide the first 8 digits.
+
+	Think Before You Click: If you receive an "urgent" SMS about your SIM card being blocked or a bank KYC update, do not click the link. Check the official app or website instead.
